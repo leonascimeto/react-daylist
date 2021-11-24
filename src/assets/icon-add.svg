@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <g id="icon-add" transform="translate(-164 -786)">
+    <g id="Elipse_16" data-name="Elipse 16" transform="translate(164 786)" fill="#5e2" stroke="#fff" stroke-width="8">
+      <circle cx="50" cy="50" r="50" stroke="none"/>
+      <circle cx="50" cy="50" r="46" fill="none"/>
+    </g>
+    <path id="Icon_ionic-md-add" data-name="Icon ionic-md-add" d="M46.75,29.417H29.417V46.75H24.083V29.417H6.75V24.083H24.083V6.75h5.333V24.083H46.75Z" transform="translate(187.25 809.25)" fill="#fff"/>
+  </g>
+</svg>

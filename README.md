@@ -1,70 +1,69 @@
-# Getting Started with Create React App
+<h1 align="center">
+React-Native-DayList
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2 align="center">
+🚧 React-Native-DayList  🚀 Em Construção 🚧
+</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/leonascimentopro/">
+      <img alt="Made by Leonardo" src="https://img.shields.io/badge/Made%20By-Leonardo%20Fernandes-blue">
+  </a>
+</p>
 
-## Available Scripts
+<img align="center" src=".github/daylistWeb.gif">
 
-In the project directory, you can run:
+## 🚀 Sobre o Projeto
 
-### `yarn start`
+Projeto de lista de tarefas criada com React e comsumindo uma API própria desenvolvida com NodeJS e utilizando o MongoDB, o projeto também tem um [versão app]() que deve ser utilizado para informar o código do dispositivo através do qrCode, o projeto é baseado em um curso de react e react native.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### 🛠 Tecnologias
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+As seguintes ferramentas foram usadas na construção do projeto:
 
-### `yarn test`
+- [React](https://pt-br.reactjs.org/)
+- [styled-components](https://styled-components.com/)
+- [react-router-dom](https://v5.reactrouter.com/web/guides/quick-start)
+- [axios](https://www.npmjs.com/package/axios)
+- [Tippy.js](https://atomiks.github.io/tippyjs/)
+- [date-fns](https://date-fns.org/)
+- [babel](https://babeljs.io/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Features
 
-### `yarn build`
+- [x] integração com versão app
+- [x] consumo de api com axios
+- [x] tela de listagem de tarefas com filtro
+- [x] icone de notificação de tarefas atrasadas
+- [x] scanner de qrcode
+- [x] tips dos tipos de tarefas
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🚀 Como rodar este projeto
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Para clonar e executar este aplicativo, você precisará de [Git](https://git-scm.com), [MongoDB](https://www.mongodb.com/) e [NodeJs][nodejs] Instalados em seu computador.
+- Necessário executar API do projeto, segue o link do repositório: [API DAYLIST]().
+- o arquivo src/services/api.js a contante baseURL deve ser alterada para o IP da rede local.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+### 🌀 Clonando o repositório
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```bash
+# Clone este repositório
+$ git clone https://github.com/leonascimeto/react-daylist.git
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Acesse a pasta do projeto no terminal/cmd
+$ cd react-daylist
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### 🧭 Rodando a aplicação web
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```bash
+# Instale as dependências
+$ npm install
 
-## Learn More
+# Execute a Aplicação
+$ npm start
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Desenvolvido por Leonardo Fernandes 👨‍💻 [Entre em contato!](https://www.linkedin.com/in/leonascimentopro/)

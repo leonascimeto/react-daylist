@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="181" height="70" viewBox="0 0 181 70">
+  <g id="logo" transform="translate(-16 -19)">
+    <path id="Icon_awesome-check" data-name="Icon awesome-check" d="M11.888,63.4.513,37.249a8.151,8.151,0,0,1,0-5.689L2.987,25.87c.683-1.571,1.791-1.571,2.475,0l7.663,17.615L29.538,5.755c.683-1.571,1.791-1.571,2.475,0l2.475,5.689a8.151,8.151,0,0,1,0,5.689L14.362,63.4C13.679,64.97,12.571,64.97,11.888,63.4Z" transform="translate(79 14.423)" fill="#5e2"/>
+    <text id="Da_List" data-name="Da  List" transform="translate(16 78)" fill="#5e2" font-size="50" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0" xml:space="preserve">Da  List</tspan></text>
+  </g>
+</svg>
