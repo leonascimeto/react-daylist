@@ -1,5 +1,5 @@
 <h1 align="center">
-React-Native-DayList
+React-DayList
 </h1>
 
 <p align="center">
